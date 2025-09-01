@@ -1521,7 +1521,6 @@ const Dashboard = () => {
         <div className="dashboard-container">
             <div className="sidebar">
                 <div className="logo-section">
-                    <img src="/logo-we360.png" alt="We360.ai" className="logo" />
                     <div className="logo-text">
                         <h2>We360.ai</h2>
                         <p>Analytics Dashboard</p>
